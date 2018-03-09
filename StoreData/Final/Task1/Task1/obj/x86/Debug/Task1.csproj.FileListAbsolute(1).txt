@@ -1,0 +1,16 @@
+d:\users\administrator\documents\visual studio 2010\Projects\Task1\Task1\bin\Debug\Task1.exe
+d:\users\administrator\documents\visual studio 2010\Projects\Task1\Task1\bin\Debug\Task1.pdb
+d:\users\administrator\documents\visual studio 2010\Projects\Task1\Task1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\administrator\documents\visual studio 2010\Projects\Task1\Task1\obj\x86\Debug\Task1.exe
+d:\users\administrator\documents\visual studio 2010\Projects\Task1\Task1\obj\x86\Debug\Task1.pdb
+D:\Users\Administrator\Documents\visual studio 2010\Projects\Task1\Task1\obj\x86\Debug\Task1.AddData.resources
+D:\Users\Administrator\Documents\visual studio 2010\Projects\Task1\Task1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Administrator\Documents\visual studio 2010\Projects\Task1\Task1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\obj\x86\Debug\Task1.exe
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\obj\x86\Debug\Task1.pdb
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\obj\x86\Debug\Task1.AddData.resources
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Administrator\Desktop\StoreData\VersionFinal\Task1\Task1\bin\Debug\Task1.pdb

@@ -1,0 +1,3 @@
+CreateBAll：实现桶分区及标签的分配
+StoreData：存储etuples
+Query：实现密文检索

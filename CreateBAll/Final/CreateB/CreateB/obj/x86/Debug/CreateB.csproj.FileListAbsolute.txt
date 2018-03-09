@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\CreateB\CreateB\bin\Debug\CreateB.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CreateB\CreateB\bin\Debug\CreateB.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\CreateB\CreateB\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\CreateB\CreateB\obj\x86\Debug\CreateB.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CreateB\CreateB\obj\x86\Debug\CreateB.pdb
+D:\Users\Administrator\Documents\visual studio 2010\Projects\CreateB\CreateB\obj\x86\Debug\CreateB.exe
+D:\Users\Administrator\Documents\visual studio 2010\Projects\CreateB\CreateB\obj\x86\Debug\CreateB.pdb
+D:\Users\Administrator\Documents\visual studio 2010\Projects\CreateB\CreateB\bin\Debug\CreateB.exe
+D:\Users\Administrator\Documents\visual studio 2010\Projects\CreateB\CreateB\bin\Debug\CreateB.pdb
+D:\Users\Administrator\Documents\visual studio 2010\Projects\CreateB\CreateB\obj\x86\Debug\ResolveAssemblyReference.cache

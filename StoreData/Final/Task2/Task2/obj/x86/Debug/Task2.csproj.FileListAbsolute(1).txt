@@ -1,0 +1,5 @@
+d:\users\administrator\documents\visual studio 2010\Projects\Task2\Task2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\administrator\documents\visual studio 2010\Projects\Task2\Task2\bin\Debug\Task2.exe
+d:\users\administrator\documents\visual studio 2010\Projects\Task2\Task2\bin\Debug\Task2.pdb
+d:\users\administrator\documents\visual studio 2010\Projects\Task2\Task2\obj\x86\Debug\Task2.exe
+d:\users\administrator\documents\visual studio 2010\Projects\Task2\Task2\obj\x86\Debug\Task2.pdb

@@ -1,0 +1,2 @@
+Task1：手动存储etuples
+Task2：自动存储etuples

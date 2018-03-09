@@ -1,0 +1,13 @@
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\bin\Debug\Task2.1.exe
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\bin\Debug\Task2.1.pdb
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.Login.resources
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.Properties.Resources.resources
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.Query.resources
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2.1.exe
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2.1.pdb
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.Regist.resources
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\bin\Debug\Task2.1.exe.config
+d:\users\administrator\documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.DialogForm.resources
